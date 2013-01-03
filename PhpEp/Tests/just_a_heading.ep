@@ -1,0 +1,39 @@
+<?xml version="1.0"?>
+<Document xmlns="http://www.evolus.vn/Namespace/Pencil">
+    <Properties/>
+    <Pages>
+        <Page>
+            <Properties>
+                <Property name="name">Untitled Page</Property>
+                <Property name="id">1355610563593_9015</Property>
+                <Property name="width">940</Property>
+                <Property name="height">1009</Property>
+                <Property name="dimBackground"/>
+                <Property name="transparentBackground"/>
+                <Property name="backgroundColor">#ffffff</Property>
+            </Properties>
+            <Content>
+                <g xmlns="http://www.w3.org/2000/svg" p:type="Shape" xmlns:p="http://www.evolus.vn/Namespace/Pencil"
+                   p:def="Evolus.BasicWebElements:heading" p:sc="Heading 1" id="835525c673f842e98d211adeb62a7bf6"
+                   transform="matrix(1,0,0,1,76,49)">
+                    <p:metadata>
+                        <p:property name="textContent"><![CDATA[Heading level 1]]></p:property>
+                        <p:property name="textFont">
+                            <![CDATA["Liberation Sans",Arial,sans-serif|bold|normal|24px|none]]></p:property>
+                        <p:property name="textColor"><![CDATA[#000000FF]]></p:property>
+                        <p:property name="customStyle"><![CDATA[]]></p:property>
+                    </p:metadata>
+
+                    <foreignObject x="0" y="0" width="143" height="30" p:name="htmlObject"
+                                   id="f9bab1d8407c4ebea32197400139048b"
+                                   style="color: rgb(0, 0, 0); opacity: 1; font-family: &quot;Liberation Sans&quot;,Arial,sans-serif; font-size: 24px; font-weight: bold; font-style: normal; text-decoration: none;">
+                        <div xmlns="http://www.w3.org/1999/xhtml" p:name="textDiv" id="83a11b79fe634daead09c2c46fcb2c9a"
+                             style="white-space: nowrap; display: inline-block !important">
+                            <div xmlns="http://www.w3.org/1999/xhtml">Heading level 1</div>
+                        </div>
+                    </foreignObject>
+                </g>
+            </Content>
+        </Page>
+    </Pages>
+</Document>

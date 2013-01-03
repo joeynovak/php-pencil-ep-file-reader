@@ -1,0 +1,35 @@
+<?xml version="1.0"?>
+<Document xmlns="http://www.evolus.vn/Namespace/Pencil">
+    <Properties/>
+    <Pages>
+        <Page>
+            <Properties>
+                <Property name="name">Untitled Page</Property>
+                <Property name="id">1355632337062_3995</Property>
+                <Property name="width">1211</Property>
+                <Property name="height">667</Property>
+                <Property name="dimBackground"/>
+                <Property name="transparentBackground"/>
+                <Property name="backgroundColor">#ffffff</Property>
+            </Properties>
+            <Content>
+                <g xmlns="http://www.w3.org/2000/svg" p:type="Shape" xmlns:p="http://www.evolus.vn/Namespace/Pencil"
+                   p:def="Evolus.Common:PlainTextV2" p:sc="Label" id="65b8f19cf3974f2b94db7428f23dae08"
+                   transform="matrix(1,0,0,1,-9,6)">
+                    <p:metadata>
+                        <p:property name="disabled"><![CDATA[false]]></p:property>
+                        <p:property name="width"><![CDATA[100,0]]></p:property>
+                        <p:property name="fixedWidth"><![CDATA[false]]></p:property>
+                        <p:property name="label"><![CDATA[Label]]></p:property>
+                        <p:property name="textColor"><![CDATA[#000000FF]]></p:property>
+                        <p:property name="textFont"><![CDATA['Comic Sans MS'|normal|normal|12px|none]]></p:property>
+                        <p:property name="textAlign"><![CDATA[0,0]]></p:property>
+                    </p:metadata>
+                    <rect x="0" y="0" style="fill: none; stroke: none; visibility: hidden; display: none;"
+                          p:name="bgRect" id="4feb6f7f1e154d16bf35f389c412fc8b" width="0" height="0"/>
+                    <text xml:space="preserve" p:name="text" id="a3022228beba4de39af2c7d71c11dd04" style="fill: rgb(0, 0, 0); fill-opacity: 1; font-family: 'Comic Sans MS'; font-size: 12px; font-weight: normal; font-style: normal; text-decoration: none;"><tspan x="0" y="0">Label</tspan></text>
+                </g>
+            </Content>
+        </Page>
+    </Pages>
+</Document>

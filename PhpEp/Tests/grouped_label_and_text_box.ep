@@ -1,0 +1,33 @@
+<?xml version="1.0"?>
+<Document xmlns="http://www.evolus.vn/Namespace/Pencil"><Properties/><Pages><Page><Properties><Property name="name">Untitled Page</Property><Property name="id">1355632299805_5180</Property><Property name="width">1211</Property><Property name="height">667</Property><Property name="dimBackground"/><Property name="transparentBackground"/><Property name="backgroundColor">#ffffff</Property></Properties><Content>
+                
+            <g xmlns="http://www.w3.org/2000/svg" p:type="Shape" xmlns:p="http://www.evolus.vn/Namespace/Pencil" p:def="Evolus.Common:PlainTextV2" p:sc="Label" id="c202d2b671a245f08ca05595274b46fa" transform="matrix(1,0,0,1,32,45)" p:sizing-ox="0" p:sizing-oy="3.75" p:sizing-ow="30.234375" p:sizing-oh="18">
+                        <p:metadata>
+                            <p:property name="disabled"><![CDATA[false]]></p:property>
+                            <p:property name="width"><![CDATA[100,0]]></p:property>
+                            <p:property name="fixedWidth"><![CDATA[false]]></p:property>
+                            <p:property name="label"><![CDATA[Label]]></p:property>
+                            <p:property name="textColor"><![CDATA[#000000FF]]></p:property>
+                            <p:property name="textFont"><![CDATA['Comic Sans MS'|normal|normal|12px|none]]></p:property>
+                            <p:property name="textAlign"><![CDATA[0,0]]></p:property>
+                        </p:metadata>
+                        <rect x="0" y="0" style="fill: none; stroke: none; visibility: hidden; display: none;" p:name="bgRect" id="3bceeb5e9c4a4416b86db9223d6b7527" width="0" height="0"/>
+                        <text xml:space="preserve" p:name="text" id="7492610fcd9a4fa59205bda818fc2235" style="fill: rgb(0, 0, 0); fill-opacity: 1; font-family: 'Comic Sans MS'; font-size: 12px; font-weight: normal; font-style: normal; text-decoration: none;"><tspan x="0" y="0">Label</tspan></text>
+                    </g><g xmlns="http://www.w3.org/2000/svg" p:type="Shape" xmlns:p="http://www.evolus.vn/Namespace/Pencil" p:def="Evolus.Sketchy.GUI:textbox" id="9b2ce292ca3444f1a7946631a46ec425" transform="matrix(1,0,0,1,70,27)" p:sizing-ox="39.40625" p:sizing-oy="0" p:sizing-ow="200" p:sizing-oh="25">
+                        <p:metadata>
+                            <p:property name="box"><![CDATA[200,25]]></p:property>
+                            <p:property name="disabled"><![CDATA[false]]></p:property>
+                            <p:property name="fillColor"><![CDATA[#FFFFFFFF]]></p:property>
+                            <p:property name="strokeColor"><![CDATA[#000000FF]]></p:property>
+                            <p:property name="strokeStyle"><![CDATA[1|]]></p:property>
+                            <p:property name="textContent"><![CDATA[text]]></p:property>
+                            <p:property name="textFont"><![CDATA['Comic Sans MS'|normal|normal|12px|none]]></p:property>
+                            <p:property name="textColor"><![CDATA[#000000FF]]></p:property>
+                            <p:property name="textAlign"><![CDATA[0,1]]></p:property>
+                        </p:metadata>
+                        <g p:name="rect" id="39e27af0a05f4e489585a3572b86c3c0" transform="translate(0.5,0.5)" style="fill: rgb(255, 255, 255); fill-opacity: 1; stroke: rgb(0, 0, 0); stroke-opacity: 1; stroke-width: 1;">
+                            <path style="stroke-linejoin: round; stroke: rgb(0, 0, 0); stroke-opacity: 1; stroke-width: 1;" p:name="line1" id="a0d45f61e7a64087879abe65ee78f28a" transform="translate(0.5,0.5)" d="M 0 0 C 67 -1 133 -1 200 0 C 200 8 200 17 200 25 C 133 24 67 24 0 25 C 0 17 0 8 0 0 z"/>
+                        </g>
+                        <text p:name="text" id="d7020d517bb94594bd27ba349f057ffc" style="font-family: 'Comic Sans MS'; font-size: 12px; font-weight: normal; font-style: normal; text-decoration: none; fill: rgb(0, 0, 0); fill-opacity: 1;" transform="translate(6,18)">text
+                        </text>
+                    </g></Content></Page></Pages></Document>

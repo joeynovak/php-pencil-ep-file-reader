@@ -1,0 +1,44 @@
+<?xml version="1.0"?>
+<Document xmlns="http://www.evolus.vn/Namespace/Pencil">
+    <Properties/>
+    <Pages>
+        <Page>
+            <Properties>
+                <Property name="name">Untitled Page</Property>
+                <Property name="id">1355632000749_4065</Property>
+                <Property name="width">1211</Property>
+                <Property name="height">667</Property>
+                <Property name="dimBackground"/>
+                <Property name="transparentBackground"/>
+                <Property name="backgroundColor">#ffffff</Property>
+            </Properties>
+            <Content>
+                <g xmlns="http://www.w3.org/2000/svg" p:type="Shape" xmlns:p="http://www.evolus.vn/Namespace/Pencil"
+                   p:def="Evolus.Sketchy.GUI:textbox" id="e7fcf4f00d6d42dda9e0ae0ce48bbcd1"
+                   transform="matrix(1,0,0,1,109,87)">
+                    <p:metadata>
+                        <p:property name="box"><![CDATA[200,25]]></p:property>
+                        <p:property name="disabled"><![CDATA[false]]></p:property>
+                        <p:property name="fillColor"><![CDATA[#FFFFFFFF]]></p:property>
+                        <p:property name="strokeColor"><![CDATA[#000000FF]]></p:property>
+                        <p:property name="strokeStyle"><![CDATA[1|]]></p:property>
+                        <p:property name="textContent"><![CDATA[text]]></p:property>
+                        <p:property name="textFont"><![CDATA['Comic Sans MS'|normal|normal|12px|none]]></p:property>
+                        <p:property name="textColor"><![CDATA[#000000FF]]></p:property>
+                        <p:property name="textAlign"><![CDATA[0,1]]></p:property>
+                    </p:metadata>
+                    <g p:name="rect" id="8f0a959c00ce4d9a98422b4e80adc655" transform="translate(0.5,0.5)"
+                       style="fill: rgb(255, 255, 255); fill-opacity: 1; stroke: rgb(0, 0, 0); stroke-opacity: 1; stroke-width: 1;">
+                        <path style="stroke-linejoin: round; stroke: rgb(0, 0, 0); stroke-opacity: 1; stroke-width: 1;"
+                              p:name="line1" id="96609839fda949b187b4f70656b90586" transform="translate(0.5,0.5)"
+                              d="M 0 0 C 67 2 133 2 200 0 C 200 8 200 17 200 25 C 133 26 67 26 0 25 C 0 17 0 8 0 0 z"/>
+                    </g>
+                    <text p:name="text" id="7e383ef823894f03baf6a0a0fc6dad7d"
+                          style="font-family: 'Comic Sans MS'; font-size: 12px; font-weight: normal; font-style: normal; text-decoration: none; fill: rgb(0, 0, 0); fill-opacity: 1;"
+                          transform="translate(6,18)">text
+                    </text>
+                </g>
+            </Content>
+        </Page>
+    </Pages>
+</Document>

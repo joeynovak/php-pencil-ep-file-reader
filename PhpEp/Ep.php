@@ -6,7 +6,6 @@
  * Time: 9:51 PM
  * To change this template use File | Settings | File Templates.
  */
-App::uses('QueryPath', 'Nova.Vendor/QueryPath');
 require_once('Entities/EpPage.php');
 require_once('Entities/EpGroup.php');
 class Ep {
